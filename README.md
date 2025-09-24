@@ -10,6 +10,10 @@
 1. https://cookbook.openai.com/
 1. https://platform.openai.com/chat/edit?optimize=true - оптимизатор промптов
 
+## Интересные репозитории
+
+1. https://github.com/alkoleft/amusement-park-vibe - репозиторий с материалами доклада BIA Tech. Рекомендуется начать изучение вайбкодинга именно с него.
+
 ## Официальные гайды для GPT-5
 
 <!--by https://t.me/onec_neurofish/1223 -->
