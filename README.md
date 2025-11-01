@@ -25,6 +25,12 @@
 1. Cursor - https://www.cursor.com/
 1. RooCode - https://github.com/RooCodeInc/Roo-Code
 
+## Правила
+
+1. https://github.com/bia-technologies/yaxunit/tree/develop/.cursor/rules
+2. https://github.com/bia-technologies/rat/tree/develop/.cursor/rules
+3. https://github.com/comol/cursor_rules_1c
+
 # Плагины
 
 1. Continue - https://www.continue.dev/
