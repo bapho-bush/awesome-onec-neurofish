@@ -13,6 +13,7 @@
 ## Интересные репозитории
 
 1. https://github.com/alkoleft/amusement-park-vibe - репозиторий с материалами доклада BIA Tech. Рекомендуется начать изучение вайбкодинга именно с него.
+2. https://github.com/FSerg/1C-SSH-Configurator-UI - UI обёртка для удалённой работы с агентом конфигуратора 1С через SSH.
 
 ## Официальные гайды для GPT-5
 
@@ -30,6 +31,10 @@
 1. https://github.com/bia-technologies/yaxunit/tree/develop/.cursor/rules
 2. https://github.com/bia-technologies/rat/tree/develop/.cursor/rules
 3. https://github.com/comol/cursor_rules_1c
+
+## SKILLS
+
+1. https://github.com/FSerg/1c-llm-requests - Расширение для 1С и SKILL для запросов данных в базе 1С.
 
 # Плагины
 
