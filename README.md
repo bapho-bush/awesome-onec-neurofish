@@ -37,6 +37,7 @@
 ## SKILLS
 
 1. https://github.com/FSerg/1c-llm-requests - Расширение для 1С и SKILL для запросов данных в базе 1С.
+2. https://skills.sh/intellectronica/agent-skills/context7 - классный SKILL для поиска актуальной документации/справки по библиотекам/фреймворкам. Замена одноименному MCP.
 
 ## Плагины
 
@@ -62,8 +63,8 @@
 # API-провайдеры:
 
 1. https://github.com/cheahjs/free-llm-api-resources
-2. OpenRouter
-3. Cerebras
+2. https://openrouter.ai/ - OpenRouter, любые модели, но с токен-тарификацией.
+3. https://www.cerebras.ai/ - Cerebras, хостят только GLM 4.7, Qwen 3 32B/235B, GPT OSS но делают это на невероятных скоростях. Для работы дорого, но для демо с вау-эффектом - самое то.
 
 # Прокси агентских подписок
 
