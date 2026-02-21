@@ -38,6 +38,7 @@
 
 1. https://github.com/FSerg/1c-llm-requests - Расширение для 1С и SKILL для запросов данных в базе 1С.
 2. https://skills.sh/intellectronica/agent-skills/context7 - классный SKILL для поиска актуальной документации/справки по библиотекам/фреймворкам. Замена одноименному MCP.
+3. https://github.com/sickn33/antigravity-awesome-skills - большая библиотека скиллов
 
 ## Плагины
 
