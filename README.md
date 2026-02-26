@@ -15,6 +15,7 @@
 1. https://github.com/alkoleft/amusement-park-vibe - репозиторий с материалами доклада BIA Tech. Рекомендуется начать изучение вайбкодинга именно с него.
 2. https://github.com/FSerg/1C-SSH-Configurator-UI - UI обёртка для удалённой работы с агентом конфигуратора 1С через SSH.
 3. https://takopi.dev/ - общаяемся со своим ИИ-агентом через Telegram.
+4. https://github.com/Arman-Kudaibergenov/1c-ai-development-kit - готовая экосистема для разработки на 1С с помощью AI. Включает агентов, навыки (skills), правила, шаблоны конфигов и документацию по форматам 1С.
 
 ## Официальные гайды для GPT-5
 
