@@ -61,6 +61,7 @@
 1. https://infostart.ru/marketplace/2405549/
 1. https://github.com/burlakovmb/Claude-AI-assistant-for-1C
 1. https://github.com/alkoleft/mcp-onec-test-runner/
+1. https://github.com/Arman-Kudaibergenov/bsl-atlas
 
 # API-провайдеры:
 
